@@ -3,7 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>files</key>
-	<dict/>
+	<dict>
+		<key>Resources/AppIcon.icns</key>
+		<data>
+		Ul4dCD0ZfgZTjn0ECvT3scIuxoQ=
+		</data>
+	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Frameworks/libSDL2-2.0.0.dylib</key>
@@ -14,6 +19,13 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"65c61766403a4d5461145f1d14c943b49c6c9330"</string>
+		</dict>
+		<key>Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LaLliWeDvzAXGcw3saQxV/ek9ojDfQWcTyPfAh3286M=
+			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
