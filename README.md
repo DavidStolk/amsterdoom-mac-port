@@ -41,7 +41,7 @@ if a Mac is too slow.
 
 ## Getting it
 
-**Requirements:** a Mac with Apple silicon (M1 or later) and macOS 15 Sequoia or later.
+**Requirements:** a Mac with Apple silicon or an Intel processor, and macOS 15 Sequoia or later.
 
 - **With git** (simplest, macOS does not ask anything):
 

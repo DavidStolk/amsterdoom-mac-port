@@ -11,14 +11,14 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/libSDL2-2.0.0.dylib</key>
+		<key>Frameworks/SDL2.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ZcYXZkA6TVRhFF8dFMlDtJxskzA=
+			tfE8V6w09HwpO/MYojuhkTTWHjE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"65c61766403a4d5461145f1d14c943b49c6c9330"</string>
+			<string>cdhash H"74380b823c0fdf27b7ee75c643963e12138af639" or cdhash H"b5f13c57ac34f47c293bf318a23ba19134d61e31" or cdhash H"4dd4ab91073b5f004a0e3be93e1af4ee11b25b74" or cdhash H"1d9d2735760a56488e2ff7739d1462d560b8aa98"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>

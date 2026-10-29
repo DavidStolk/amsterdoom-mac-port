@@ -6,8 +6,10 @@ the following code under these licenses.
 
 ------------------------------------------------------------------------------
 SDL2 2.32.8 (zlib license), https://libsdl.org
-(Amsterdoom.app/Contents/Frameworks/libSDL2-2.0.0.dylib)
+(Amsterdoom.app/Contents/Frameworks/SDL2.framework)
 ------------------------------------------------------------------------------
+
+Simple DirectMedia Layer
 Copyright (C) 1997-2025 Sam Lantinga <slouken@libsdl.org>
   
 This software is provided 'as-is', without any express or implied
@@ -25,7 +27,6 @@ freely, subject to the following restrictions:
 2. Altered source versions must be plainly marked as such, and must not be
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
-
 
 ------------------------------------------------------------------------------
 pl_mpeg (MIT license), Dominic Szablewski, https://github.com/phoboslab/pl_mpeg
